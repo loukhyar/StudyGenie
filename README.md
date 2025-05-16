@@ -84,7 +84,7 @@ StudyGenie/
    http://localhost:5000
    ```
 
-
+---
 
 ## 🧪 Usage
 
