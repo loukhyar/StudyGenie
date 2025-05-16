@@ -19,8 +19,8 @@
 ## 🖼️ Screenshots
 
 ![Screenshot 2025-05-16 161851](https://github.com/user-attachments/assets/ba1410bc-c702-4dee-82a0-4e4570fa3d11)
-![Screenshot 2025-05-16 162059](https://github.com/user-attachments/assets/20052099-85cb-45dc-a136-0ec2a066ef5e)
 ![Screenshot 2025-05-16 161902](https://github.com/user-attachments/assets/a5dccb15-0be7-4e8e-a863-780424b8b787)
+![Screenshot 2025-05-16 162059](https://github.com/user-attachments/assets/20052099-85cb-45dc-a136-0ec2a066ef5e)
 
 ---
 
