@@ -59,7 +59,7 @@ StudyGenie/
 
    ```bash
    pip install -r requirements.txt
-````
+``
 
 2. **Install Ollama (for running LLMs locally)**:
    Follow instructions from: [https://ollama.com/download](https://ollama.com/download)
