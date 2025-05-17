@@ -3,7 +3,7 @@ import uuid
 import os
 import json
 from study_plan import generate_learning_advice
-from advanced_prompting import create_few_shot_prompt
+from advanced_prompt_generator import create_few_shot_prompt
 from prompt_generator import create_student_recommendation_prompt
 from context_prompt import create_contextual_chat_prompt, enhance_conversation_history
 
